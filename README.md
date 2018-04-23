@@ -1,11 +1,17 @@
 # Franzory.js
 * * *
 ### 选择器
-> //选择元素ID                          `fran.byId()  例：fran.byId("id") `  参数：元素ID
+> //选择元素ID                          
+<br>`fran.byId()  例：fran.byId("id") `  
+<br>参数：元素ID
 
-> //选择某个元素/元素下的第一个子元素     `fran.dom()  例：fran.dom("#id")   fran.dom("father","child") `  <br>参数：元素(必须)，第一个子元素(可选)
+> //选择某个元素/元素下的第一个子元素     
+<br>`fran.dom()  例：fran.dom("#id")   fran.dom("father","child") `  
+<br>参数：元素(必须)，第一个子元素(可选)
 
-> //选择某个元素/元素下的全部子元素       `fran.domAll()  例：fran.dom(".class")[arr]  fran.dom("father","child")[arr]`  参数：元素(必须)，第一个子元素(可选)
+> //选择某个元素/元素下的全部子元素       
+<br>`fran.domAll()  例：fran.dom(".class")[arr]  fran.dom("father","child")[arr]`  
+<br>参数：元素(必须)，第一个子元素(可选)
 
 ***
 
