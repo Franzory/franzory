@@ -1,9 +1,7 @@
 # franzory
 * * *
 #### 选择器
-* fran.byId()
-`
-> 123
-> 345
-`
+` fran.byId()  //选择ID  例：fran.byId("ID") `
+* * *
+
 
