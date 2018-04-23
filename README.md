@@ -39,13 +39,6 @@
 
 ***
 
-### 操作节点
-> //判断是否有该元素
-<br>`fran.isElement()  例：fran.isElement(fran.byId("ID")) `
-<br>参数：节点
-
-***
-
 ### 操作值
 > //去除文本前后的空白字符/空格
 <br>`fran.trim()  例：fran.trim("  text  ") `
