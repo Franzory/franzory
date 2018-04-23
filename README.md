@@ -28,5 +28,7 @@
 
 ### 事件
 > //绑定事件      `fran.addEvt()  例：fran.addEvt(fran.byId("ID"),'click',function,false)) `  参数：（元素，事件名，执行，是否冒泡）
+
 > //解绑事件      `fran.rmEvt()  例：fran.rmEvt(fran.byId("ID"),'click',function,false)) `  参数：（元素，事件名，执行，是否冒泡）
+
 > //一次性事件    `fran.oneEvt()  例：fran.oneEvt(fran.byId("ID"),'click',function,false)) `  参数：（元素，事件名，执行，是否冒泡）
