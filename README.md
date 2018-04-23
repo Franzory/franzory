@@ -1,2 +1,3 @@
 # franzory
-fran.js
+***
+选择器
