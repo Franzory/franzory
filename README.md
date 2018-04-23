@@ -49,14 +49,14 @@
 ***
 
 ### 事件
-> //绑定事件      
+> //绑定事件
 <br>`fran.addEvt()  例：fran.addEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
 
-> //解绑事件      
+> //解绑事件
 <br>`fran.rmEvt()  例：fran.rmEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
 
-> //一次性事件    
+> //一次性事件
 <br>`fran.oneEvt()  例：fran.oneEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
