@@ -28,22 +28,22 @@
 <br>参数：文本
 
 > //去除文本的所有空白字符/空格          
-<br>`fran.trimAll()  例：fran.trimAll("  t e x t  ") `  
+<br>`fran.trimAll()  例：fran.trimAll("  t e x t  ") `
 <br>参数：文本
 
 ***
 
 ### 判断是否
 > //判断是否有该元素                      
-<br>`fran.isElement()  例：fran.isElement(fran.byId("ID")) `  
+<br>`fran.isElement()  例：fran.isElement(fran.byId("ID")) `
 <br>参数：元素
 
 > //判断是否为数组                        
-<br>`fran.isArray()  例：fran.isArray([1,2,3]) `  
+<br>`fran.isArray()  例：fran.isArray([1,2,3]) `
 <br>参数：数组
 
 > //判断对象是否为空                      
-<br>`fran.isEmptyObject()  例：fran.isEmptyObject({a:1}) `  
+<br>`fran.isEmptyObject()  例：fran.isEmptyObject({a:1}) `
 <br>参数：对象
 
 ***
