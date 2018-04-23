@@ -1,4 +1,4 @@
-# franzory
+# Franzory
 * * *
 ### 选择器
 > //选择元素ID                        `fran.byId()  例：fran.byId("ID") `
