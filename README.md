@@ -22,4 +22,4 @@
 
 > //判断是否为数组                        `fran.isArray()  例：fran.isArray([1,2,3]) `
 
-> //判断对象是否为空                        `fran.isEmptyObject()  例：fran.isEmptyObject({a:1}) `
+> //判断对象是否为空                      `fran.isEmptyObject()  例：fran.isEmptyObject({a:1}) `
