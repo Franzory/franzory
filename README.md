@@ -17,14 +17,14 @@
 
 ### 操作节点
 > //判断是否有该元素                     
-<br>`fran.isElement()  例：fran.isElement(fran.byId("ID")) `  
+<br>`fran.isElement()  例：fran.isElement(fran.byId("ID")) `
 <br>参数：节点
 
 ***
 
 ### 操作值
 > //去除文本前后的空白字符/空格           
-<br>`fran.trim()  例：fran.trim("  text  ") `  
+<br>`fran.trim()  例：fran.trim("  text  ") `
 <br>参数：文本
 
 > //去除文本的所有空白字符/空格          
@@ -50,13 +50,13 @@
 
 ### 事件
 > //绑定事件      
-<br>`fran.addEvt()  例：fran.addEvt(fran.byId("ID"),'click',function,false)) `  
+<br>`fran.addEvt()  例：fran.addEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
 
 > //解绑事件      
-<br>`fran.rmEvt()  例：fran.rmEvt(fran.byId("ID"),'click',function,false)) `  
+<br>`fran.rmEvt()  例：fran.rmEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
 
 > //一次性事件    
-<br>`fran.oneEvt()  例：fran.oneEvt(fran.byId("ID"),'click',function,false)) `  
+<br>`fran.oneEvt()  例：fran.oneEvt(fran.byId("ID"),'click',function,false)) `
 <br>参数：（元素，事件名，执行，是否冒泡）
